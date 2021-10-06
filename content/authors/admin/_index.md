@@ -13,11 +13,6 @@ social:
     link: https://github.com/hgreen16
     icon_pack: fab
     icon: github
-  - display:
-      header: false
-    <a href="mailto:hng9vf@virginia.edu"></a>
-    icon: email
-    icon_pack: fas
 organizations:
   - name: University of Virginia
     url: https://www.virginia.edu/
