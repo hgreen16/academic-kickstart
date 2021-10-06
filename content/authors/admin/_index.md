@@ -8,9 +8,6 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '<a href = "mailto: hng9vf@virginia.edu"></a>'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/haley-green-7725ba16a
