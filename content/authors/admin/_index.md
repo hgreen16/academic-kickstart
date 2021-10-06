@@ -13,6 +13,11 @@ social:
     link: https://github.com/hgreen16
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: mailto:hng9vf@virginia.edu
+    icon: email
+    icon_pack: fas
 organizations:
   - name: University of Virginia
     url: https://www.virginia.edu/
@@ -21,7 +26,7 @@ education:
     - course: BS in Mechanical Engineering
       institution: Brown University
       year: 2020
-email: hng9vf@virginia.edu
+email: ""
 superuser: true
 highlight_name: true
 ---
