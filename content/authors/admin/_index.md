@@ -1,6 +1,7 @@
 ---
 title: Haley Green
 role: PhD Student in Computer Engineering
+avatar_filename: greenheadshot.jpeg
 bio: My research focus is on Human-Robot Interaction.
 interests:
   - Artificial Intelligence
