@@ -15,7 +15,7 @@ social:
     icon: github
   - display:
       header: false
-    link: mailto:hng9vf@virginia.edu
+    <a href="mailto:hng9vf@virginia.edu"></a>
     icon: email
     icon_pack: fas
 organizations:
