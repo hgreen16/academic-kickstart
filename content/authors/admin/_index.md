@@ -3,10 +3,7 @@ title: Haley Green
 role: PhD Student in Computer Engineering
 avatar_filename: greenheadshot.jpeg
 bio: My research focus is on Human-Robot Interaction.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: linkedin
     icon_pack: fab
@@ -28,8 +25,6 @@ email: hng9vf@virginia.edu
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. student in Computer Engineering at the University of Virginia. I work in the Collaborative Robotics Lab under the supervision of Prof. Tariq Iqbal. As a recipient of the National Science Foundation Research Traineeship (NRT), I am also a member of the  University of Virginia’s Link Lab. Previously, I attended Brown University where I earned my B.S. in Mechanical Engineering and played for the Varsity Brown Women’s Basketball Team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Haley_Green_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+My research focuses on Human-Robot Interaction (HRI), and I am particularly interested in observing real-time trust dynamics between human-robot teams.
