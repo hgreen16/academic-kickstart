@@ -7,7 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-
+  - name: Publications
+    url:'#publications'   
+  - name: Courses
+    url:'#courses'
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
