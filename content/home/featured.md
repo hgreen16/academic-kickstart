@@ -40,5 +40,5 @@ design:
 
 [3] H. N. Green, M. M. Islam, S. Ali, and T. Iqbal, “Perceiving a Humorous Robot as a Social Partner,” Elsevier, 2022. Under Review.
 
-[4] M. M. Islam, R. M. Mirzaiee, A. Gladstone, H. N. Green, and T. Iqbal, “CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets,” Conference on Neural Information Processing Systems (NeurIPS), Track on Datasets and Benchmarks, 2022. Under Review.
+[4] M. M. Islam, R. M. Mirzaiee, A. Gladstone, H. N. Green, and T. Iqbal, “CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets,” Conference on Neural Information Processing Systems (NeurIPS), Track on Datasets and Benchmarks, 2022.
 
