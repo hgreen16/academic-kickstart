@@ -34,7 +34,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-[1] H. N. Green, M. M. Islam, S. Ali, and T. Iqbal, “Perceiving a Humorous Robot as a Social Partner,” Elsevier, 2023. In Press.
+[1] H. N. Green, M. M. Islam, S. Ali, and T. Iqbal, “Perceiving a Humorous Robot as a Social Partner,” Elsevier, 2023.
 
 [2] H. N. Green, M. M. Islam, S. Ali, and T. Iqbal, “Who’s Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner,” ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2022.
 
