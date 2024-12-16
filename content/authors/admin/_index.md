@@ -28,6 +28,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a Ph.D. student in Computer Engineering at the University of Virginia. I work in the [Collaborative Robotics Lab](https://www.collabrobotics.com/) under the supervision of Prof. Tariq Iqbal. As a recipient of the National Science Foundation Research Traineeship (NRT), I am also a member of the  University of Virginia’s Link Lab. Previously, I attended Brown University where I earned my B.S. in Mechanical Engineering and played for the Varsity Brown Women’s Basketball Team.
+I am a Ph.D. candidate in Computer Engineering at the University of Virginia, working in the [Collaborative Robotics Lab](https://www.collabrobotics.com/) under the supervision of Prof. Tariq Iqbal. I am also a member of the University of Virginia’s Link Lab, where I serve as president of the student committee, representing the interests and well-being of over 250 graduate and undergraduate students. Prior to my time as a graduate student, I earned a B.S. in Mechanical Engineering from Brown University, where I was also a member of the Varsity Women’s Basketball Team.
 
-My research focuses on Human-Robot Interaction (HRI), and I am particularly interested in observing real-time trust dynamics between human-robot teams.
+My research focuses on Human-Robot Interaction (HRI), and I’m particularly interested in observing real-time trust dynamics between human-robot teams. My research is guided by
+three main goals: (1) Identify objective measures that can indicate human trust and be collected via wearables in real-time; (2) Develop a trust model that uses multiple
+modalities to predict a person’s current trust a robot; and (3) Use the trust prediction to guide a robot’s decision-making.
